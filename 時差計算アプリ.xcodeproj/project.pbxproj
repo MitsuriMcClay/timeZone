@@ -7,13 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A668ADB627BA3AF000518AD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6857EA22734D67000BDDD2F /* Assets.xcassets */; };
 		A6857E9A2734D66F00BDDD2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6857E992734D66F00BDDD2F /* AppDelegate.swift */; };
 		A6857E9C2734D66F00BDDD2F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6857E9B2734D66F00BDDD2F /* SceneDelegate.swift */; };
 		A6857E9E2734D66F00BDDD2F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6857E9D2734D66F00BDDD2F /* ViewController.swift */; };
 		A6857EA12734D66F00BDDD2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6857E9F2734D66F00BDDD2F /* Main.storyboard */; };
-		A6857EA32734D67000BDDD2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6857EA22734D67000BDDD2F /* Assets.xcassets */; };
 		A6857EA62734D67000BDDD2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6857EA42734D67000BDDD2F /* LaunchScreen.storyboard */; };
-		A6857EAE2738C53100BDDD2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6857EAD2738C53100BDDD2F /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		A6857EA22734D67000BDDD2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6857EA52734D67000BDDD2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6857EA72734D67000BDDD2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A6857EAD2738C53100BDDD2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../../Downloads/AppIcons (5) 2/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				A6857E992734D66F00BDDD2F /* AppDelegate.swift */,
 				A6857E9B2734D66F00BDDD2F /* SceneDelegate.swift */,
 				A6857E9D2734D66F00BDDD2F /* ViewController.swift */,
-				A6857EAD2738C53100BDDD2F /* Assets.xcassets */,
 				A6857E9F2734D66F00BDDD2F /* Main.storyboard */,
 				A6857EA22734D67000BDDD2F /* Assets.xcassets */,
 				A6857EA42734D67000BDDD2F /* LaunchScreen.storyboard */,
@@ -129,8 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6857EA62734D67000BDDD2F /* LaunchScreen.storyboard in Resources */,
-				A6857EA32734D67000BDDD2F /* Assets.xcassets in Resources */,
-				A6857EAE2738C53100BDDD2F /* Assets.xcassets in Resources */,
+				A668ADB627BA3AF000518AD0 /* Assets.xcassets in Resources */,
 				A6857EA12734D66F00BDDD2F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
